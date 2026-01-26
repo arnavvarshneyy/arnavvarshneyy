@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="center">Hey I'm Arnav Varshney</h1>
+
+###
+
 <p align="left">💻 Software Engineer & Full Stack MERN Developer<br>⚛️ React.js | Node.js | Express | MongoDB<br>🧠 Strong in DSA, system design & problem solving<br>🌱 Always learning, always shipping</p>
 
 ###
@@ -11,10 +15,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arnavvarshneyy.arnavvarshneyy&"  />
 </div>
-
-###
-
-<h1 align="center">Hey I'm Arnav Varshney</h1>
 
 ###
 
