@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey I'm Arnav Varshney</h1>
+<h1 align="center">Hey, I'm Arnav Varshney</h1>
 
 ###
 
@@ -16,7 +16,10 @@
 
 ###
 
-<p align="left">💻 Software Engineer & Full Stack MERN Developer<br>⚛️ React.js | Node.js | Express | MongoDB<br>🧠 Strong in DSA, system design & problem solving<br>🌱 Always learning, always shipping</p>
+<p align="left">💻 Software Engineer & Full Stack MERN Developer<br>✨ Architectural solutions not just scripts<br>
+🧠 Strong in DSA, system design & problem solving<br>🌱 Turning complexity into reality<br>
+✴️ Driven by first principle thinking 
+</p>
 
 ###
 
