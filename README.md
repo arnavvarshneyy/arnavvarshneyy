@@ -8,6 +8,14 @@
 
 ###
 
+<div align="center">
+
+  <img width="150" height="150" src="https://images.weserv.nl/?url=https://media.tenor.com/Ems-mLvCeqwAAAAM/cid-kagenou.gif&w=300&h=300&fit=cover&mask=circle&n=-1" />
+
+</div>
+
+###
+
 <p align="left">💻 Software Engineer & Full Stack MERN Developer<br>⚛️ React.js | Node.js | Express | MongoDB<br>🧠 Strong in DSA, system design & problem solving<br>🌱 Always learning, always shipping</p>
 
 ###
