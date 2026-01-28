@@ -17,8 +17,8 @@
 ###
 
 <p align="left">💻 Software Engineer & Full Stack MERN Developer<br>✨ Architectural solutions not just scripts<br>
-🧠 Strong in DSA, system design & problem solving<br>🌱 Turning complexity into reality<br>
-✴️ Driven by first thought principle 
+🧠 Strong in DSA, system design(HLD) & problem solving<br>🌱 Turning complexity into reality<br>
+✴️ Driven by first principle thinking 
 </p>
 
 ###
